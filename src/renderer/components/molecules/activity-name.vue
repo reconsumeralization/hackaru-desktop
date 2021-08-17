@@ -6,21 +6,21 @@
 </template>
 
 <script>
-import DotText from '@/components/molecules/dot-text';
+import DotText from '~/components/molecules/dot-text'
 
 export default {
   components: {
-    DotText
+    DotText,
   },
   props: {
     project: {
       type: Object,
-      default: null
+      default: null,
     },
     description: {
       type: String,
-      default: null
-    }
-  }
-};
+      default: null,
+    },
+  },
+}
 </script>
