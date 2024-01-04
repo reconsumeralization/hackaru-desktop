@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 reconsumeralization/hackaru-desktop is built on the following main stack:
+
 - [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
@@ -22,11 +23,13 @@ reconsumeralization/hackaru-desktop is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 reconsumeralization/hackaru-desktop is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
@@ -47,14 +50,15 @@ reconsumeralization/hackaru-desktop is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [reconsumeralization/hackaru-desktop](https://github.com/reconsumeralization/hackaru-desktop)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|87<br/>Tools used|11/09/23 <br/>Report generated|
+|90<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -265,9 +269,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (64)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (67)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (64)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (67)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -288,6 +292,7 @@ Full tech stack [here](/techstack.md)
 |[babel-preset-minify](https://www.npmjs.com/babel-preset-minify)|v0.3.0|11/10/20|dependabot-preview[bot] |MIT|N/A|
 |[babel-preset-stage-0](https://www.npmjs.com/babel-preset-stage-0)|v6.24.1|11/10/20|dependabot-preview[bot] |MIT|N/A|
 |[babel-register](https://www.npmjs.com/babel-register)|v6.26.0|11/10/20|dependabot-preview[bot] |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|09/29/20|dependabot-preview[bot] |MIT|N/A|
 |[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v5.1.1|12/21/20|dependabot-preview[bot] |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v5.2.1|07/06/20|dependabot-preview[bot] |MIT|N/A|
 |[del](https://www.npmjs.com/del)|v5.1.0|04/08/19|ktmouk |MIT|N/A|
@@ -305,8 +310,10 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-vue](https://www.npmjs.com/eslint-plugin-vue)|v5.2.3|01/23/21|ktmouk |MIT|N/A|
 |[file-loader](https://www.npmjs.com/file-loader)|v6.1.0|10/06/20|dependabot-preview[bot] |MIT|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v3.2.0|12/21/20|dependabot-preview[bot] |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.6|12/21/20|dependabot-preview[bot] |MIT|N/A|
 |[inject-loader](https://www.npmjs.com/inject-loader)|v4.0.1|10/06/20|dependabot-preview[bot] |MIT|N/A|
 |[karma-coverage](https://www.npmjs.com/karma-coverage)|v1.1.2|05/29/19|ktmouk |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.1.5|01/23/21|ktmouk |MIT|N/A|
 |[lodash.debounce](https://www.npmjs.com/lodash.debounce)|v4.0.8|08/19/19|ktmouk |MIT|N/A|
 |[lodash.get](https://www.npmjs.com/lodash.get)|v4.4.2|08/19/19|ktmouk |MIT|N/A|
 |[lodash.merge](https://www.npmjs.com/lodash.merge)|v4.6.2|08/27/19|dependabot-preview[bot] |MIT|N/A|
@@ -339,4 +346,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
