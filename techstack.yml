@@ -2,7 +2,7 @@ repo_name: reconsumeralization/hackaru-desktop
 report_id: 90e9763f1b2940ae63d0576df1de06af
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:17:34+00:00'
+timestamp: '2024-02-29T18:13:15+00:00'
 requested_by: dependabot-preview[bot]
 provider: github
 branch: master
@@ -175,7 +175,7 @@ tools:
   last_updated_by: ktmouk
   last_updated_on: 2019-04-08 03:22:28.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
@@ -189,7 +189,7 @@ tools:
   last_updated_by: dependabot-preview[bot]
   last_updated_on: 2020-10-06 08:35:15.000000000 Z
 - name: Sentry
-  description: 'See performance issues, fix errors faster, and optimize code health. '
+  description: See performance issues, fix errors faster, and optimize code health.
   website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
   open_source: true
   hosted_saas: true
