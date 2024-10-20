@@ -110,7 +110,7 @@
     "uniqid": "^5.2.0",
     "universal-analytics": "^0.4.20",
     "v-tooltip": "^2.0.3",
-    "vue": "^2.6.12",
+    "vue": "^3.0.0",
     "vue-electron": "^1.0.6",
     "vue-feather-icons": "^5.1.0",
     "vue-i18n": "^8.17.2",
